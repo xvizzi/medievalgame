@@ -1,0 +1,122 @@
+ !! THIS IS A PENDING LIST OF IDEAS/ROUTE FOR THIS PROJECT !!
+ !! PLEASE USE THIS AS A REFERENCE AS AN !ORDER! OF WHICH THING SHOULD BE DONE !!
+ !! THIS CAN BE REDEFINDED/SCRAPED AT ANYMOMENT WITHIN THE PROJECT TIMELINE !! 
+ 
+ !!! PRE-ROMAN/MEDIEVAL ESK RPG, MULTIPLAYER, SANDBOX !!!
+ 
+ !? possible names
+ 
+	* True Strife
+ 
+ 
+1. template everthing
+	a. character
+		i.   model
+		ii.  weapon (standard short sword)
+		iii. animations
+		iv.  sounds ?
+		v.   hit collisions
+	b. world
+		i.  blank plane to test above in.
+		ii. a dummy (enemey)?
+			A. test hit collisions
+			
+2. base models for character
+	a. general picker
+		i. selections for:
+			a.hair
+			b.face
+				i.eyes
+				ii. etc.
+			c. etc etc.
+	b.flesh out later
+	
+3. creation of player profiles
+	a. backend? for player id's/serialization (steam?)
+	
+4. character creation 
+	a. implement base models in creation
+	b. serializing character model into player profile
+	
+5. flesh out '1b' (world creation) using Unity terrain.
+	a. random creation upon (server)? startup
+		i.   creation of (plots)?
+		ii.  inaccessible areas
+		iii. ??? etc?
+	b. destruction preplaned (plots)? and resources
+		i. harvesting (plots)? 
+			A. trees
+			B. minerals
+			C. etc
+	c. regenerations of destroyed (plot)?
+		i. time delay..
+	d. create many different kindas of plots
+		i.  minecraft chunk style 
+			 A. create several preset chunks in a dictionary for:
+			 	 * towns
+				 * woods
+				 * grasslands
+				 * mountains
+				 * etc.
+		ii. randomly pick a selection between the dictionaries
+			A. paste them next to eachother 
+			B. bias selections based on last (smooth changes between chunks)
+		
+5a. tyler forgot what was supposed to go before #6.
+		
+		
+6. player creation of structures and resources 
+	i towns.
+	ii castles.
+	iii forts
+	iv. villages
+	v. etc
+	a. destruction of structions
+	
+	6a. structure ideas
+		i.  one whole structure created
+			 a. going into building creation mode at a buildsite which then goes into top down (god) view of buildable plot/chunk
+				 i.  buildings can't be placed over things
+		ii. create a structure foundation
+			a. build walls snapping to foundation
+				A. see most all games that build in this way.
+	
+	
+7. player owned (factions)? / (clans)? / (kingdoms)?
+	i. own a fief(s)
+		i.   player established (one of #7 words)
+		ii.  apply policy
+		iii. upgrade fief
+				A. food
+				B. defence.
+				C. creation
+				D. etc.
+		iv.  create any of 6.
+				A. all policy apply to creations
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
