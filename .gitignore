@@ -1,5 +1,5 @@
-.meta
-.sln
-.csproj
-Temp
-Packages
+*.meta
+*.sln
+*.csproj
+Temp/
+Packages/
